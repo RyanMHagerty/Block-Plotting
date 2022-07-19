@@ -1,0 +1,29 @@
+h1{
+    color: aqua;
+    background-color: black;
+    text-align: left;
+    height: 40px;
+    font-family: monospace;
+    font-weight: bolder;
+
+}
+
+h2{
+    color: antiquewhite;
+    background-color: blueviolet;
+    text-align: center;
+    height: 30px;
+    font-style: italic;
+}
+
+h3{
+    color: black;
+    background-color: azure;
+    text-align: right;
+    height: 20px;
+    text-decoration: underline;
+}
+
+span{
+    color: antiquewhite;
+}
